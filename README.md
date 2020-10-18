@@ -22,3 +22,5 @@ Como se mencionó se pueden localizar landmarks automáticamente ya que en la ca
 se marcan manaulmente landmarks y se copia el archivo llamado "Manual_landmarks.csv" en donde estan ubicadas las imagenes para ubicar automáticamente landmarks, además de crear 
 los archivos mencionados se crea un archivo llamado "información.log" que contiene información sobre el número de imágenes evaluadas, su tamaño y los errores rmse y mae
 respecto a las landmarks manuales y localizadas automáticamente.
+
+Se adjunta el archivo "APORTES_Y_APLICACIONES_EN_LAS_CIENCIAS_CMPUTACIONALES.pdf" relacionado al proyecto desarrollado
